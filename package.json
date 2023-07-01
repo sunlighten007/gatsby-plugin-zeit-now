@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-zeit-now",
-  "author": "Phuoc <phuoc317049@gmail.com>",
+  "author": "sunlighten",
   "version": "0.5.0",
   "description": "Deploy GatsbyJS site on Zeit Now/Vercel",
   "license": "MIT",
